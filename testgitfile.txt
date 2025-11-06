@@ -1,1 +1,2 @@
 This is new git file 
+I added some changes on github
